@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Pantalla from "pantalla";
+import Pantalla from "./Pantalla";
 
 function Calculadora() {
   const [pantalla, setPantalla] = useState("");
